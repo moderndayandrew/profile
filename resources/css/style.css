@@ -1,0 +1,19 @@
+body {
+  font-family: Helvetica;
+}
+
+#topnav {
+  background-color: dimgrey;
+  position: fixed;
+  color: white;
+}
+
+#heading {
+  background-image: url();
+  color: white;
+}
+
+#heading h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
